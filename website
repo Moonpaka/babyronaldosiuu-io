@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Baby Ronaldo $SIUU 🚨</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background: #fcfcfc;
+      color: #222;
+      font-family: 'Montserrat', Arial, sans-serif;
+      margin: 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 410px;
+      margin: 36px auto;
+      padding: 24px 18px 32px 18px;
+      border-radius: 30px;
+      box-shadow: 0 6px 30px rgba(0,0,0,0.08);
+      background: #f9f9f9;
+    }
+    .logo {
+      width: 180px;
+      margin-bottom: 20px;
+      border-radius: 20px;
+      background: #fff;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    }
+    h1 {
+      margin: 8px 0 10px;
+      font-size: 2em;
+      font-weight: bold;
+      letter-spacing: 1px;
+      color: #c60016;
+    }
+    .subtitle {
+      font-size: 1.17em;
+      color: #e84c3d;
+      margin-bottom: 16px;
+      font-weight: 600;
+    }
+    .desc, .goals {
+      color: #444;
+      margin: 15px 0 9px;
+      font-size: 1.09em;
+    }
+    .section-title {
+      margin-top: 30px;
+      margin-bottom: 12px;
+      font-size: 1.19em;
+      color: #e84c3d;
+      font-weight: bold;
+      letter-spacing: 0.5px;
+    }
+    .steps {
+      margin: 20px 0;
+      padding: 0;
+      list-style: none;
+      font-size: 1.13em;
+    }
+    .steps li {
+      margin: 13px 0;
+      font-weight: 500;
+      border-bottom: 1px dashed #ffcccc;
+      padding-bottom: 3px;
+    }
+    .btn {
+      display: block;
+      width: 96%;
+      max-width: 350px;
+      margin: 12px auto;
+      padding: 22px 0;
+      font-size: 1.15em;
+      background: #e84c3d;
+      color: #fff;
+      text-decoration: none;
+      border: none;
+      border-radius: 16px;
+      box-shadow: 0 3px 12px rgba(232,76,61,0.18);
+      font-weight: bold;
+      letter-spacing: 2px;
+      transition: background 0.2s;
+    }
+    .btn:hover {
+      background: #a91915;
+      box-shadow: 0 2px 8px rgba(232,76,61,0.22);
+    }
+    .contract {
+      font-size: 0.99em;
+      background: #fff;
+      border-radius: 14px;
+      padding: 11px;
+      margin: 19px 0 7px 0;
+      word-break: break-all;
+      color: #333;
+      border: 1px solid #eee;
+      letter-spacing: 0.5px;
+    }
+    .social {
+      margin: 24px 0 15px;
+      font-size: 1.11em;
+    }
+    .story-block {
+      background: #fff9ef;
+      border-radius: 14px;
+      padding: 14px 13px 13px 13px;
+      margin-bottom: 17px;
+      color: #7c3911;
+      font-size: 1.07em;
+      box-shadow: 0 2px 8px rgba(232,76,61,0.04);
+      border: 1px dashed #ffe1c3;
+    }
+    footer {
+      font-size: 0.96em;
+      color: #cc4141;
+      margin-top: 25px;
+      opacity: .68;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Logo -->
+    <img src="image.jpeg" alt="SIUU Baby Ronaldo Meme" class="logo">
+    <div class="subtitle">🚨 The Moonshot You’ve Been Waiting For! 🚨</div>
+    <h1>Baby Ronaldo $SIUU ⚽️</h1>
+    <div class="desc">🎉 The pump is coming—hold strong, stay patient, it’ll be UNFORGETTABLE! ✨ 1M x soon 🥳</div>
+    
+    <div class="section-title">How To Join?</div>
+    <ul class="steps">
+      <li>1️⃣ Buy $SIUU on Bonkfun, Raydium or Phantom</li>
+      <li>2️⃣ HOLD until our goal of <b>555M Market Cap</b> is reached</li>
+      <li>3️⃣ After the pump & breakout: Celebrate & Sell 🚀</li>
+    </ul>
+
+    <a class="btn" href="https://bonk.fun/token/EuaW1QB3XLFPDZLJi4m63nsZGhqTspVVE2k7b16Rbonk" target="_blank">Buy $SIUU (Bonkfun)</a>
+    <a class="btn" href="https://raydium.io/launchpad/token/?mint=EuaW1QB3XLFPDZLJi4m63nsZGhqTspVVE2k7b16Rbonk" target="_blank">Launchpad (Raydium)</a>
+    <a class="btn" href="https://phantom.com/tokens/solana/EuaW1QB3XLFPDZLJi4m63nsZGhqTspVVE2k7b16Rbonk?referralId=cyvgmjrhp0i" target="_blank">Open Wallet (Phantom)</a>
+    <a class="btn" href="https://dexscreener.com/solana/ChbpCu8xcnH6idYw5m1bgNY7BAeJUfEpnjmhJUG2U7sG" target="_blank">Live Chart (DEXScreener)</a>
+    <a class="btn" href="https://t.me/babyronaldosiuu" target="_blank">Join Telegram</a>
+    
+    <div class="contract">
+      <b>Contract Address:<br></b> EuaW1QB3XLFPDZLJi4m63nsZGhqTspVVE2k7b16Rbonk
+    </div>
+
+    <div class="section-title">Our Goals</div>
+    <div class="goals">
+      <b>Goal 1:</b> Build a strong community <br>
+      <b>Goal 2:</b> Start the real SIUU hype <br>
+      <b>Goal 3:</b> Break through 555M Market Cap <br>
+      <b>Goal 4:</b> Cristiano notices us 👀 <br>
+      <b>Ultimate Goal:</b> Enjoy the pump and party with the SIUU Army!
+    </div>
+
+    <div class="section-title">Our Story</div>
+    <div class="story-block">
+      It all started with a meme, a true dream and the SIUU Spirit. Baby Ronaldo $SIUU is the coin for everyone who believes in achieving the impossible – just like Ronaldo: "I’m rich and I say $SIUU!"<br><br>
+      Together we're building the most legendary crypto community. Here, only one thing matters: pump it, hold it, SIUU! 💪
+    </div>
+
+    <div class="social">
+      @Cristiano, check this out! 🚀<br>
+      #SIUU #BabyRonaldo
+    </div>
+    <footer>
+      🚨 Not financial advice. Only SIUU, only fun, only memes. <br>
+      Copyright 2025 Baby Ronaldo SIUU ©
+    </footer>
+  </div>
+</body>
+</html>
+
